@@ -1,0 +1,10 @@
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\bin\Debug\WindowsFormsApp2gojaniuk2.exe.config
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\bin\Debug\WindowsFormsApp2gojaniuk2.exe
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\bin\Debug\WindowsFormsApp2gojaniuk2.pdb
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.csprojAssemblyReference.cache
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.Form1.resources
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.Properties.Resources.resources
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.csproj.GenerateResource.cache
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.csproj.CoreCompileInputs.cache
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.exe
+D:\Interface\WindowsFormsApp2gojaniuk2\WindowsFormsApp2gojaniuk2\obj\Debug\WindowsFormsApp2gojaniuk2.pdb
