@@ -1,0 +1,6 @@
+D:\Praktichni\oop-lab5\SimpleClassConsole\bin\Debug\SimpleClassConsole.exe.config
+D:\Praktichni\oop-lab5\SimpleClassConsole\bin\Debug\SimpleClassConsole.exe
+D:\Praktichni\oop-lab5\SimpleClassConsole\bin\Debug\SimpleClassConsole.pdb
+D:\Praktichni\oop-lab5\SimpleClassConsole\obj\Debug\SimpleClassConsole.csprojAssemblyReference.cache
+D:\Praktichni\oop-lab5\SimpleClassConsole\obj\Debug\SimpleClassConsole.exe
+D:\Praktichni\oop-lab5\SimpleClassConsole\obj\Debug\SimpleClassConsole.pdb
